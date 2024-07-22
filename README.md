@@ -1,2 +1,2 @@
 # MusicApp
-https://shodhan07.github.io/MusicApp/
+https://abhinandannaik.github.io/MusicApp/
